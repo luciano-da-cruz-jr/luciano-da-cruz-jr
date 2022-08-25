@@ -1,4 +1,4 @@
-## Olá eu sou Luciano da Cruz Júnior, gosto e trabalho com tecnologia (Developer Web - Front-End e IT Help Desk!
+:## Olá eu sou Luciano da Cruz Júnior, gosto e trabalho com tecnologia (Developer Web - Front-End e IT Help Desk!:
 <div align="center">
   <a href="https://github.com/luciano-da-cruz-jr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciano-da-cruz-jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
