@@ -1,6 +1,6 @@
 <h2 align="center">Bootcamp Spread Full Stack:  Nesta página, contém os projetos desenvolvidos ao longo do curso! </h2>
 
-![Alt ou título da imagem](./Logo-Spread-FullStack-Developer.JPG)
+![Alt ou título da imagem](./Logo-Spread-FullStack-Developer.JPG) ![Alt ou título da imagem](./Logo-Dio.JPG)
 
 ### Módulo 1: Introdução
 
