@@ -3,6 +3,10 @@
 ### Abaixo uma breve lista dos cursos e projetos desenvolvidos: 
 
 * [Bootcamp Spread Full Stack](https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Spread-Full-Stack-Menu.md)
+* [Jornada Dev - Currículo](https://github.com/luciano-da-cruz-jr/Jornada-Dev-Curriculo)
+* [Node.js do Zero a Maestria com diversos Projetos](https://#)
+
+
 
 ##
 
