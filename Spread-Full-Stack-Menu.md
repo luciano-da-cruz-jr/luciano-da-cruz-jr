@@ -2,8 +2,8 @@
 
 ### Módulo 1  
 
-* [1.3.1](https://github.com/luciano-da-cruz-jr/SPD-1.3.1-Exercicos-de-Logica)
-* [1.3.2](https://github.com/luciano-da-cruz-jr/SPD-1.3.2.-Exercicios-em-Portugol)
+* [1.3.1 - Exercícos de lógica de programação e utilização de fluxogramas](https://github.com/luciano-da-cruz-jr/SPD-1.3.1-Exercicos-de-Logica)
+* [1.3.2 - Exercícos de programação no software Portugol e utilização de fluxogramas](https://github.com/luciano-da-cruz-jr/SPD-1.3.2.-Exercicios-em-Portugol)
 
 ### Módulo 2  
 
