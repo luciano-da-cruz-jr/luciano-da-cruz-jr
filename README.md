@@ -1,7 +1,6 @@
 <h2 align="center"> Olá, sejam bem-vindos, sou Luciano da Cruz Júnior, gosto de aprender e amo trabalhar com tecnologia (Developer Web - Front-End e IT Help Desk) </h2>
 
-[!IMPORTANT]
-Essential information required for user success.
+[contributing](README - Copy.md)
 
 ## Índice 
 
