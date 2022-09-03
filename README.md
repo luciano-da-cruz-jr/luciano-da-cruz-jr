@@ -1,4 +1,25 @@
-:## Olá eu sou Luciano da Cruz Júnior, gosto e trabalho com tecnologia (Developer Web - Front-End e IT Help Desk!:
+<h2 align="center"> Olá, sejam bem-vindos, sou Luciano da Cruz Júnior, gosto de aprender e amo trabalhar com tecnologia (Developer Web - Front-End e IT Help Desk) </h2>
+
+[!IMPORTANT]
+Essential information required for user success.
+
+## Índice 
+
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Badges](#badges)
+* [Índice](#índice)
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
+
+<h1> Teste </h1>
+
 <div align="center">
   <a href="https://github.com/luciano-da-cruz-jr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciano-da-cruz-jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
