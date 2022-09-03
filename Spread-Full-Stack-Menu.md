@@ -1,5 +1,7 @@
 <h2 align="center">Bootcamp Spread Full Stack:  Nesta página, contém os projetos desenvolvidos ao longo do curso! </h2>
 
+![Alt ou título da imagem](./Logo-Spread-FullStack-Developer.JPG)
+
 ### Módulo 1: Introdução
 
 * [1.3.1 - Exercícos de lógica de programação e utilização de fluxogramas](https://github.com/luciano-da-cruz-jr/SPD-1.3.1-Exercicos-de-Logica)
