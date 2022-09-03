@@ -4,23 +4,8 @@
 
 * [Bootcamp Spread Full Stack](https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Spread-Full-Stack-Menu.md)
 
+##
 
-## Índice 
-
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
-
-<h1> Teste </h1>
 
 <div align="center">
   <a href="https://github.com/luciano-da-cruz-jr">
@@ -43,5 +28,4 @@
   <a href="https://www.linkedin.com/in/lucianodacruzjunior-tecnicodesuportejr-desenvolvedorfrontend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
