@@ -1,6 +1,6 @@
 <h2 align="center"> Olá, sejam bem-vindos, sou Luciano da Cruz Júnior, gosto de aprender e amo trabalhar com tecnologia (Developer Web - Front-End e IT Help Desk) </h2>
 
-<a href="https://github.com/luciano-da-cruz-jr/README - Copy.md">Teste</a>
+<a href="https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/README%20-%20Copy.md">Teste</a>
 
 ## Índice 
 
