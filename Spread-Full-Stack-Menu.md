@@ -66,17 +66,7 @@
 * [6.6 - Projeto: Nodejs + REST + PostgreSQL (CRUD) Parte 2](https://github.com/luciano-da-cruz-jr/6.6)
 * [6.7 - Projeto: Encurtador de URL (API)](https://github.com/luciano-da-cruz-jr/6.7)
 
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
 
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
 
 
 
