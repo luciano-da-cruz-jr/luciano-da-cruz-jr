@@ -2,6 +2,7 @@
 
 ### Abaixo uma breve lista dos cursos e projetos desenvolvidos: 
 
+* [Sistema Help Desk Online (Java+Angular)](https://helpdesk-angular-java-front.vercel.app/login) / [Código Back](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java) / [Código Front](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java-Front) / [Apresentação em Video](https://youtu.be/Cyf3bQRb8bo)
 * [Bootcamp Spread Full Stack](https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Spread-Full-Stack-Menu.md)
 * [Jornada Dev - Currículo](https://github.com/luciano-da-cruz-jr/Jornada-Dev-Curriculo)
 * [Node.js do Zero a Maestria com diversos Projetos](https://#)
