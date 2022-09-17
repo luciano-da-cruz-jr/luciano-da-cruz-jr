@@ -11,6 +11,7 @@
 ### Módulo 2: HTML/CSS  
 
 * [2.1.8 - Primeiras aplicações em PHP](https://github.com/luciano-da-cruz-jr/SPD-2.1.8-Construindo-as-primeiras-aplicacoes)
+* [2.2 - Website com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2-Introducao-ao-curso-de-HTML)
 * [2.2.1 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.1-Introducao-ao-curso-de-HTML)
 * [2.2.2 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.2-Entendendo-o-que-e-semantica)
 * [2.2.3 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.3-Como-usar-textos-e-links-em-HTML)
