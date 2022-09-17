@@ -50,14 +50,14 @@
 
 ### Módulo 6 - NodeJS
 
-* [6.1 - Introdução a APIs e métodos HTTP](https://github.com/luciano-da-cruz-jr/SPD-6.1-Introducao-a-APIs-e-metodos-HTTP-Python)
-* [6.2.1 - Nodejs - Sequelize e PostgreSQL](https://github.com/luciano-da-cruz-jr/SPD-6.2.1-Desenvolvimento-de-Node.js-com-banco-de-dados-PostgreSQL)
-* [6.2.2 - Nodejs - CRUD simples com Express + MongoDB](https://github.com/luciano-da-cruz-jr/SPD-6.2.2-Desenvolvimento-de-Node.js-com-banco-de-dados-MongoDB)
-* [6.2.3 - Nodejs - CRUD simples com Hapi + MongoDB](https://github.com/luciano-da-cruz-jr/SPD-6.2.3-Criando-servicos-escalaveis-com-Hapi)
-* [6.3 - Nodejs - Introdução ao Express](https://github.com/luciano-da-cruz-jr/SPD-6.3-NodeJs-com-Express-Introducao)
-* [6.5 - Projeto: Nodejs + REST + PostgreSQL (CRUD) Parte 1](https://github.com/luciano-da-cruz-jr/6.5)
-* [6.6 - Projeto: Nodejs + REST + PostgreSQL (CRUD) Parte 2](https://github.com/luciano-da-cruz-jr/6.6)
-* [6.7 - Projeto: Encurtador de URL (API)](https://github.com/luciano-da-cruz-jr/6.7)
+* [6.1 - Introdução a APIs e métodos HTTP (Introduction to HTTP APIs and Methods)](https://github.com/luciano-da-cruz-jr/SPD-6.1-Introducao-a-APIs-e-metodos-HTTP-Python)
+* [6.2.1 - Nodejs - Sequelize e PostgreSQL (Nodejs - Sequelize and PostgreSQL)](https://github.com/luciano-da-cruz-jr/SPD-6.2.1-Desenvolvimento-de-Node.js-com-banco-de-dados-PostgreSQL)
+* [6.2.2 - Nodejs - CRUD simples com Express + MongoDB (Nodejs - CRUD simple with Express + MongoDB)](https://github.com/luciano-da-cruz-jr/SPD-6.2.2-Desenvolvimento-de-Node.js-com-banco-de-dados-MongoDB)
+* [6.2.3 - Nodejs - CRUD simples com Hapi + MongoDB (Nodejs - CRUD simple with Hapi + MongoDB)](https://github.com/luciano-da-cruz-jr/SPD-6.2.3-Criando-servicos-escalaveis-com-Hapi)
+* [6.3 - Nodejs - Introdução ao Express (Nodejs - Introduction to Express)](https://github.com/luciano-da-cruz-jr/SPD-6.3-NodeJs-com-Express-Introducao)
+* [6.5 - Projeto: Nodejs + REST + PostgreSQL (CRUD) Parte 1 (Project: Nodejs + REST + PostgreSQL (CRUD) Part 1)](https://github.com/luciano-da-cruz-jr/6.5)
+* [6.6 - Projeto: Nodejs + REST + PostgreSQL (CRUD) Parte 2 (Project: Nodejs + REST + PostgreSQL (CRUD) Part 2)](https://github.com/luciano-da-cruz-jr/6.6)
+* [6.7 - Projeto: Encurtador de URL (API) (Project: URL Shortener (API))](https://github.com/luciano-da-cruz-jr/6.7)
 
 
 
