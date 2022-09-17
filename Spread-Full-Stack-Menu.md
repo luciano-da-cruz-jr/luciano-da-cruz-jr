@@ -17,20 +17,20 @@
 
 ### Módulo 3: Javascript  
 
-* [3.1 - Introdução do Javasccript](https://github.com/luciano-da-cruz-jr/SPD-3.1-Introducao-ao-Javascript)
-* [3.2 - Sintaxe e Operadores em JS](https://github.com/luciano-da-cruz-jr/SPD-3.2-Sintaxe-e-Operadores-JS)
-* [3.3 - Variáveis e Tipos em JS](https://github.com/luciano-da-cruz-jr/SPD-3.3-Variaveis-e-Tipos-JS)
-* [3.4 - Funçoes em JS](https://github.com/luciano-da-cruz-jr/SPD-3.4-Funcoes-JS )
-* [3.5 - Coleções em JS](https://github.com/luciano-da-cruz-jr/SPD-3.5-Colecoes-JS)
-* [3.6 - Map, Filter e Reduce em JS](https://github.com/luciano-da-cruz-jr/SPD-3.6.-Map-Filter-Reduce-JS)
-* [3.7 - Debugging e Error Handling em JS](https://github.com/luciano-da-cruz-jr/SPD-3.7-Debugging-e-Error-Handling-JS)
-* [3.8 - Javascript Assíncrono](https://github.com/luciano-da-cruz-jr/SPD-3.8-Javascript-Assincrono)
-* [3.9 - Orientação a Objetos em JS](https://github.com/luciano-da-cruz-jr/SPD-3.9.-Orientacao-a-objetos-JS)
-* [3.10 - Módulos em JS](https://github.com/luciano-da-cruz-jr/SPD-3.10-Utilizando-Modulos-JS)
-* [3.11 - Manipulação do DOM no JS](https://github.com/luciano-da-cruz-jr/SPD-3.11-Manipulando-a-D.O.M-com-JavaScript)
-* [3.12 - Introdução ao TypeScript - Explorando as classes, tipos e interfaces](https://github.com/luciano-da-cruz-jr/SPD-3.12-Intro-ao-TypeScript-Explorando-Classes-Tipos-Interfaces)
-* [3.13 - Resolução dos desafios iniciais Js Spread FullStack ](https://github.com/luciano-da-cruz-jr/SPD-3.13-Desafios-Iniciais-JS-Spread-FullStack)
-* [3.14 - Projeto: Sistema web de estacionamento simples em TypeScript](https://github.com/luciano-da-cruz-jr/SPD-3.14-TypeScript-Web-Sistema-simples-de-estacionamento)
+* [3.1 - Introdução do Javasccript (Introduction to Javascript)](https://github.com/luciano-da-cruz-jr/SPD-3.1-Introducao-ao-Javascript)
+* [3.2 - Sintaxe e Operadores em JS (Syntax and Operators in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.2-Sintaxe-e-Operadores-JS)
+* [3.3 - Variáveis e Tipos em JS (Variables and Types in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.3-Variaveis-e-Tipos-JS)
+* [3.4 - Funçoes em JS (Functions in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.4-Funcoes-JS )
+* [3.5 - Coleções em JS (Collections in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.5-Colecoes-JS)
+* [3.6 - Map, Filter e Reduce em JS (Map, Filter and Reduce in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.6.-Map-Filter-Reduce-JS)
+* [3.7 - Debugging e Error Handling em JS (Debugging and Error Handling in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.7-Debugging-e-Error-Handling-JS)
+* [3.8 - Javascript Assíncrono (Asynchronous Javascript)](https://github.com/luciano-da-cruz-jr/SPD-3.8-Javascript-Assincrono)
+* [3.9 - Orientação a Objetos em JS (Object Oriented in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.9.-Orientacao-a-objetos-JS)
+* [3.10 - Módulos em JS (JS modules)](https://github.com/luciano-da-cruz-jr/SPD-3.10-Utilizando-Modulos-JS)
+* [3.11 - Manipulação do DOM no JS (DOM manipulation in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.11-Manipulando-a-D.O.M-com-JavaScript)
+* [3.12 - Introdução ao TypeScript - Explorando as classes, tipos e interfaces (Introduction to TypeScript - Exploring Classes, Types, and Interfaces)](https://github.com/luciano-da-cruz-jr/SPD-3.12-Intro-ao-TypeScript-Explorando-Classes-Tipos-Interfaces)
+* [3.13 - Resolução dos desafios iniciais Js Spread FullStack (Solving the initial Js Spread FullStack challenges) ](https://github.com/luciano-da-cruz-jr/SPD-3.13-Desafios-Iniciais-JS-Spread-FullStack)
+* [3.14 - Projeto: Sistema web de estacionamento simples em TypeScript (Project: Simple TypeScript web parking system)](https://github.com/luciano-da-cruz-jr/SPD-3.14-TypeScript-Web-Sistema-simples-de-estacionamento)
 
 ### Módulo 4: ReactJS 
 
