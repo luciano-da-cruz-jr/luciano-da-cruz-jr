@@ -10,7 +10,7 @@
 
 ### Módulo 2: HTML/CSS  
 
-* [2.1.8 - Primeiras aplicações em PHP](https://github.com/luciano-da-cruz-jr/SPD-2.1.8-Construindo-as-primeiras-aplicacoes)
+* [2.1 - Primeiras aplicações em PHP](https://github.com/luciano-da-cruz-jr/SPD-2.1.8-Construindo-as-primeiras-aplicacoes)
 * [2.2 - Website com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2-Introducao-ao-curso-de-HTML)
 * [2.3 - Projeto: Criando uma página HTML de Agência de Turismo com CSS Flexbox (Estático)](https://github.com/luciano-da-cruz-jr/SPD-2.3.-Posicionando-elementos-com-Flexbox-em-CSS)
 * [2.4 - Projeto: Recriando a página de login do Instagram (Estático)](https://github.com/luciano-da-cruz-jr/SPD-2.4-Recriando-a-pagina-inicial-do-Instagram)
