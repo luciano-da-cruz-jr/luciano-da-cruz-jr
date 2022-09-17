@@ -46,7 +46,7 @@
 
 ### Módulo 5 - Banco de Dados
 
-* [5 - SQL (Códigos Prático)](https://github.com/luciano-da-cruz-jr/SPD-5-Banco-de-Dados)
+* [5 - Códigos SQL (SQL Code)](https://github.com/luciano-da-cruz-jr/SPD-5-Banco-de-Dados)
 
 ### Módulo 6 - NodeJS
 
