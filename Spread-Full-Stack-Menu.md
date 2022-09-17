@@ -10,10 +10,10 @@
 
 ### Módulo 2: HTML/CSS  
 
-* [2.1 - Primeiras aplicações em PHP](https://github.com/luciano-da-cruz-jr/SPD-2.1.8-Construindo-as-primeiras-aplicacoes)
-* [2.2 - Website com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2-Introducao-ao-curso-de-HTML)
-* [2.3 - Projeto: Website de uma Agência de Turismo com CSS Flexbox](https://github.com/luciano-da-cruz-jr/SPD-2.3.-Posicionando-elementos-com-Flexbox-em-CSS)
-* [2.4 - Projeto: Recriando a página de login do Instagram (Estático)](https://github.com/luciano-da-cruz-jr/SPD-2.4-Recriando-a-pagina-inicial-do-Instagram)
+* [2.1 - Primeiras aplicações em PHP (First PHP applications)](https://github.com/luciano-da-cruz-jr/SPD-2.1.8-Construindo-as-primeiras-aplicacoes)
+* [2.2 - Website com HTML5 e CSS3 (Website with HTML5 and CSS3)](https://github.com/luciano-da-cruz-jr/SPD-2.2-Introducao-ao-curso-de-HTML)
+* [2.3 - Projeto: Website de uma Agência de Turismo com CSS Flexbox (Project: Website of a Tourism Agency with CSS Flexbox)](https://github.com/luciano-da-cruz-jr/SPD-2.3.-Posicionando-elementos-com-Flexbox-em-CSS)
+* [2.4 - Projeto: Recriando a página de login do Instagram (Estático) (Project: Recreating Instagram Login Page (Static))](https://github.com/luciano-da-cruz-jr/SPD-2.4-Recriando-a-pagina-inicial-do-Instagram)
 
 ### Módulo 3: Javascript  
 
