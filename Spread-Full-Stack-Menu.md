@@ -12,14 +12,6 @@
 
 * [2.1.8 - Primeiras aplicações em PHP](https://github.com/luciano-da-cruz-jr/SPD-2.1.8-Construindo-as-primeiras-aplicacoes)
 * [2.2 - Website com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2-Introducao-ao-curso-de-HTML)
-* [2.2.1 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.1-Introducao-ao-curso-de-HTML)
-* [2.2.2 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.2-Entendendo-o-que-e-semantica)
-* [2.2.3 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.3-Como-usar-textos-e-links-em-HTML)
-* [2.2.4 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.4-Como-inserir-imagens-em-seu-site)
-* [2.2.5 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.5-Como-organizar-listas-com-HTML)
-* [2.2.6 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.6-Introducao-e-Conceitos-basicos-CSS3)
-* [2.2.7 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.7-Estilizando-elementos-textos-e-listas)
-* [2.2.8 - Website simples com HTML5 e CSS3](https://github.com/luciano-da-cruz-jr/SPD-2.2.8-Dimensao-e-Alinhamento)
 * [2.3 - Projeto: Criando uma página HTML de Agência de Turismo com CSS Flexbox (Estático)](https://github.com/luciano-da-cruz-jr/SPD-2.3.-Posicionando-elementos-com-Flexbox-em-CSS)
 * [2.4 - Projeto: Recriando a página de login do Instagram (Estático)](https://github.com/luciano-da-cruz-jr/SPD-2.4-Recriando-a-pagina-inicial-do-Instagram)
 
