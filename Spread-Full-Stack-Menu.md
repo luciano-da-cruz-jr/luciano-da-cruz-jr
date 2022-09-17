@@ -34,15 +34,15 @@
 
 ### Módulo 4: ReactJS 
 
-* [4.1.1 - Introdução do ReactJS](https://github.com/luciano-da-cruz-jr/SPD-4.1.1-Instroducao-ao-ReactJS)
-* [4.1.2 - Integração do Webpack com ReactJS](https://github.com/luciano-da-cruz-jr/SPD-4.1.2-Integrando-webpack-ao-desenvolvimento-com-ReactJS)
-* [4.1.3 - ReactJS - Renderização condicional, listas, chaves e manipulação de eventos](https://github.com/luciano-da-cruz-jr/SPD-4.1.3-Aplicacao-tipos-de-dados-e-condicoes-da-biblioteca)
-* [4.2 - Introducao aos Reacts Hooks](https://github.com/luciano-da-cruz-jr/SPD-4.2-Introducao-aos-React-Hooks)
-* [4.3 - ReactJS Hooks - Trabalhando com states e effects em ReacJS](https://github.com/luciano-da-cruz-jr/SPD-4.3-ReactJS-Hooks-Trabalhando-com-States-e-Effects-em-ReacJS)
-* [4.4 - ReactJS - Desenvolvimento de aplições para internet](https://github.com/luciano-da-cruz-jr/SPD-4.4-ReactJS-Desenvolvimento-de-aplica-es-para-internet)
-* [4.5 - Resolução dos desafios intermediários Js Spread FullStack](https://github.com/luciano-da-cruz-jr/SPD-4.5-Desafios-Intermediarios-JS-Spread-FullStack)
-* [4.6 - Praticas avançadas em projetos com ReactJS](https://github.com/luciano-da-cruz-jr/SPD-4.6-Praticas-avancadas-em-projetos-com-ReactJS)
-* [4.7 - Redux com ReactJS - Introdução](https://github.com/luciano-da-cruz-jr/SPD-4.7-Introducao-a-Redux-com-ReactJS)
+* [4.1.1 - Introdução do ReactJS (Introduction to ReactJS)](https://github.com/luciano-da-cruz-jr/SPD-4.1.1-Instroducao-ao-ReactJS)
+* [4.1.2 - Integração do Webpack com ReactJS (Webpack Integration with ReactJS)](https://github.com/luciano-da-cruz-jr/SPD-4.1.2-Integrando-webpack-ao-desenvolvimento-com-ReactJS)
+* [4.1.3 - ReactJS - Renderização condicional, listas, chaves e manipulação de eventos (ReactJS - Conditional Rendering, Lists, Keys and Event Handling)](https://github.com/luciano-da-cruz-jr/SPD-4.1.3-Aplicacao-tipos-de-dados-e-condicoes-da-biblioteca)
+* [4.2 - Introducao aos Reacts Hooks (Introduction to Reacts Hooks)](https://github.com/luciano-da-cruz-jr/SPD-4.2-Introducao-aos-React-Hooks)
+* [4.3 - ReactJS Hooks - Trabalhando com states e effects em ReacJS (ReactJS Hooks - Working with states and effects in the ReacJS)](https://github.com/luciano-da-cruz-jr/SPD-4.3-ReactJS-Hooks-Trabalhando-com-States-e-Effects-em-ReacJS)
+* [4.4 - ReactJS - Desenvolvimento de aplições para internet (ReactJS - Web Application Development)](https://github.com/luciano-da-cruz-jr/SPD-4.4-ReactJS-Desenvolvimento-de-aplica-es-para-internet)
+* [4.5 - Resolução dos desafios intermediários Js Spread FullStack (Solving the Js Spread FullStack Intermediate Challenges)](https://github.com/luciano-da-cruz-jr/SPD-4.5-Desafios-Intermediarios-JS-Spread-FullStack)
+* [4.6 - Praticas avançadas em projetos com ReactJS (Advanced practices in projects with ReactJS)](https://github.com/luciano-da-cruz-jr/SPD-4.6-Praticas-avancadas-em-projetos-com-ReactJS)
+* [4.7 - Redux com ReactJS - Introdução (Redux with ReactJS - Introduction)](https://github.com/luciano-da-cruz-jr/SPD-4.7-Introducao-a-Redux-com-ReactJS)
 
 ### Módulo 5 - Banco de Dados
 
