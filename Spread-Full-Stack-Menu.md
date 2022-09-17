@@ -17,7 +17,7 @@
 
 ### Módulo 3: Javascript  
 
-* [3.1 - Introdução do Javasccript (Introduction to Javascript)](https://github.com/luciano-da-cruz-jr/SPD-3.1-Introducao-ao-Javascript)
+* [3.1 - Introdução do Javascript (Introduction to Javascript)](https://github.com/luciano-da-cruz-jr/SPD-3.1-Introducao-ao-Javascript)
 * [3.2 - Sintaxe e Operadores em JS (Syntax and Operators in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.2-Sintaxe-e-Operadores-JS)
 * [3.3 - Variáveis e Tipos em JS (Variables and Types in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.3-Variaveis-e-Tipos-JS)
 * [3.4 - Funçoes em JS (Functions in JS)](https://github.com/luciano-da-cruz-jr/SPD-3.4-Funcoes-JS )
