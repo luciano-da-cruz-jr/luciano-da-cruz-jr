@@ -1,12 +1,12 @@
-<h2 align="center">Bootcamp Spread Full Stack:  Nesta página, contém os projetos desenvolvidos ao longo do curso! </h2>
+<h2 align="center">Bootcamp Spread Full Stack:  Nesta página, contém os projetos desenvolvidos ao longo do curso! (This page contains the projects developed throughout the course!)</h2>
 
 ![Alt ou título da imagem](./Logo-Spread-FullStack-Developer.JPG) 
 ![Alt ou título da imagem](./Logo-Dio.JPG)
 
-### Módulo 1: Introdução
+### Módulo 1: Introdução (Introduction)
 
-* [1.3.1 - Exercícos de lógica de programação e utilização de fluxogramas](https://github.com/luciano-da-cruz-jr/SPD-1.3.1-Exercicos-de-Logica)
-* [1.3.2 - Exercícos de programação no software Portugol e utilização de fluxogramas](https://github.com/luciano-da-cruz-jr/SPD-1.3.2.-Exercicios-em-Portugol)
+* [1.3.1 - Exercícios de lógica de programação e utilização de fluxogramas (Programming logic lessons and using flowcharts)](https://github.com/luciano-da-cruz-jr/SPD-1.3.1-Exercicos-de-Logica)
+* [1.3.2 - Exercícios de programação no software Portugol e utilização de fluxogramas (Programming lessons in the Portugol software and use of flowcharts)](https://github.com/luciano-da-cruz-jr/SPD-1.3.2.-Exercicios-em-Portugol)
 
 ### Módulo 2: HTML/CSS  
 
