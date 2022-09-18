@@ -1,13 +1,16 @@
-<h2 align="center"> Olá, sejam bem-vindos, sou Luciano da Cruz Júnior, gosto muito de aprender e trabalhar com tecnologia! (Developer Web - Front-End e IT Help Desk) </h2>
+Hello, welcome, I'm Luciano da Cruz Júnior, I really enjoy learning and working with technology! (Developer Web - Front-End e IT Help Desk) </h2>
 
-### Abaixo uma breve lista dos cursos e projetos desenvolvidos: 
+### Below is a brief list of courses and projects developed : 
 
-* [Sistema Help Desk Online (Java+Angular)](https://helpdesk-angular-java-front.vercel.app/login) / [Código Back](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java) / [Código Front](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java-Front) / <a href="https://youtu.be/Cyf3bQRb8bo" target="_blank">Apresentação em Video<a/>
+* [Help Desk System - Online (Java+Angular)](https://helpdesk-angular-java-front.vercel.app/login) / [Back-end code](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java) / [Front-end code](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java-Front) / <a href="https://youtu.be/Cyf3bQRb8bo" target="_blank">Presentation in Video<a/>
 * [Bootcamp Spread Full Stack](https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Spread-Full-Stack-Menu.md)
-* [Jornada Dev - Currículo - Em breve](https://github.com/luciano-da-cruz-jr/Jornada-Dev-Curriculo) 
-* [Node.js from Zero to Mastery with several Projects - Coming Soon](https://#)
+* [Dev Journey - Resume - Coming Soon](https://github.com/luciano-da-cruz-jr/Jornada-Dev-Curriculo) 
+* [Node.js do Zero a Maestria com diversos Projetos - Em breve](https://#)
+
+
 
 ##
+
 
 <div align="center">
   <a href="https://github.com/luciano-da-cruz-jr">
