@@ -4,7 +4,7 @@
 
 * [Sistema Help Desk Online (Java+Angular)](https://helpdesk-angular-java-front.vercel.app/login) / [Código Back](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java) / [Código Front](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java-Front) / <a href="https://youtu.be/Cyf3bQRb8bo" target="_blank">Apresentação em Video<a/>
 * [Bootcamp Spread Full Stack](https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Spread-Full-Stack-Menu.md)
-* [Jornada Dev - Currículo](https://github.com/luciano-da-cruz-jr/Jornada-Dev-Curriculo)
+* [Jornada Dev - Currículo - Em breve](https://github.com/luciano-da-cruz-jr/Jornada-Dev-Curriculo) 
 * [Node.js do Zero a Maestria com diversos Projetos - Em Breve](https://#)
 
 
