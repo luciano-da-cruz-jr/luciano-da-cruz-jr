@@ -59,6 +59,8 @@
 * [6.6 - Projeto: Nodejs + REST + PostgreSQL (CRUD) Parte 2 (Project: Nodejs + REST + PostgreSQL (CRUD) Part 2)](https://github.com/luciano-da-cruz-jr/6.6)
 * [6.7 - Projeto: Encurtador de URL (API) (Project: URL Shortener (API))](https://github.com/luciano-da-cruz-jr/6.7)
 
+<h4 align="center"><a href="https://github.com/luciano-da-cruz-jr">Voltar à página principal(Back to main page)</a></h4>
+
 
 
 
