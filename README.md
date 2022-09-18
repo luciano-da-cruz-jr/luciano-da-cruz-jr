@@ -2,7 +2,7 @@ Hello, welcome, I'm Luciano da Cruz Júnior, I really enjoy learning and working
 
 ### Below is a brief list of courses and projects developed : 
 
-* [Help Desk System - Online (Java+Angular)](https://helpdesk-angular-java-front.vercel.app/login) / [Back-end code](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java) / [Front-end code](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java-Front) / <a href="https://youtu.be/Cyf3bQRb8bo" target="_blank">Presentation in Video<a/>
+* [Help Desk System - Online in Heroku + Versel (Java+Angular)](https://helpdesk-angular-java-front.vercel.app/login) / [Back-end code](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java) / [Front-end code](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java-Front) / <a href="https://youtu.be/Cyf3bQRb8bo" target="_blank">Presentation in Video<a/>
 * [Bootcamp Spread Full Stack](https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Spread-Full-Stack-Menu.md)
 * [Dev Journey - Resume - Coming Soon](https://github.com/luciano-da-cruz-jr/Jornada-Dev-Curriculo) 
 * [Node.js do Zero a Maestria com diversos Projetos - Em breve](https://#)
