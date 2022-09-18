@@ -1,4 +1,4 @@
-Hello, welcome, I'm Luciano da Cruz Júnior, I really enjoy learning and working with technology! (Developer Web - Front-End e IT Help Desk) </h2>
+<h2 align="center">Hello, welcome, I'm Luciano da Cruz Júnior, I really enjoy learning and working with technology! (Developer Web - Front-End e IT Help Desk)</h2>
 
 ### Below is a brief list of courses and projects developed : 
 
