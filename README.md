@@ -7,7 +7,7 @@
 * [Dev Journey - Resume - Coming Soon](https://github.com/luciano-da-cruz-jr/Jornada-Dev-Curriculo) 
 * [Node.js do Zero a Maestria com diversos Projetos - Em breve](https://#)
 * Projects With ReactJS
-  * 
+  * [To Do List](https://github.com/luciano-da-cruz-jr/To-Do-List) / Online Coming Soon / Video Presentation Coming Soon
 
 
 ##
