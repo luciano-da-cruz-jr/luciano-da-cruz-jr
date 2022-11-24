@@ -9,6 +9,7 @@
 * Projects With ReactJS
   * [To Do List](https://github.com/luciano-da-cruz-jr/To-Do-List) / Online Coming Soon / Video Presentation Coming Soon
   * [Control Of Expenses or Expenses Tracker](https://github.com/luciano-da-cruz-jr/Expensive-Tracker) / Online Coming Soon / Video Presentation Coming Soon
+  * [Photo Gallery](https://github.com/luciano-da-cruz-jr/gallery-photos) / Online Coming Soon / Video Presentation Coming Soon
  
 
 
