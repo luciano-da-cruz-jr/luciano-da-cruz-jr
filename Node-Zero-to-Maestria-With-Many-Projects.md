@@ -1,4 +1,4 @@
-<h2 align="center">Bootcamp Spread Full Stack:  Nesta página, contém os projetos desenvolvidos ao longo do curso! (This page contains the projects developed throughout the course!)</h2>
+<h2 align="center">Node.js do Zero a Maestria com diversos Projetos:  Nesta página, contém os projetos desenvolvidos ao longo do curso! (Node.js from Zero to Mastery with Various Projects: This page contains the projects developed throughout the course!)</h2>
 
 ![Alt ou título da imagem](./Logo-Spread-FullStack-Developer.JPG) 
 ![Alt ou título da imagem](./Logo-Dio.JPG)
