@@ -5,7 +5,7 @@
 * [Help Desk System - Online in Heroku + Versel (Java+Angular)](https://helpdesk-angular-java-front.vercel.app/login) / [Back-end code](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java) / [Front-end code](https://github.com/luciano-da-cruz-jr/Helpdesk-Angular-Java-Front) / <a href="https://youtu.be/Cyf3bQRb8bo" target="_blank">Presentation in Video<a/>
 * [Bootcamp Spread Full Stack](https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Spread-Full-Stack-Menu.md)
 * [Dev Journey - Resume - Coming Soon](https://github.com/luciano-da-cruz-jr/Jornada-Dev-Curriculo) 
-* [Node.js do Zero a Maestria com diversos Projetos - Em breve](https://#)
+* [Node.js from Zero to Mastery with Various Projects](https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Node-Zero-to-Maestria-With-Many-Projects.md)
 * Projects With ReactJS
   * [To Do List](https://github.com/luciano-da-cruz-jr/To-Do-List) / Online Coming Soon / Video Presentation Coming Soon
   * [Control Of Expenses or Expenses Tracker](https://github.com/luciano-da-cruz-jr/Expensive-Tracker) / Online Coming Soon / Video Presentation Coming Soon
