@@ -5,7 +5,7 @@
 ### Seção 15: Projeto - Adote um Animal de Estimação (Section 15: Project - Get a Pet)
 
 * [Back-End (NodeJS)]()
-* [Front-End (ReactJS)]()
+* [Front-End (ReactJS)]() / Online Coming Soon / Video Presentation Coming Soon
 
 <h4 align="center"><a href="https://github.com/luciano-da-cruz-jr">Voltar à página principal(Back to main page)</a></h4>
 
