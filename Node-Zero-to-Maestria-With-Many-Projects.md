@@ -1,6 +1,6 @@
 <h2 align="center">Node.js do Zero a Maestria com diversos Projetos:  Nesta página, contém os projetos desenvolvidos ao longo do curso! (Node.js from Zero to Mastery with Various Projects: This page contains the projects developed throughout the course!)</h2>
 
-<div>
+<div style="width:200px; border: 1px solid black;">
   <img src="./Logo-Node.jpg" width="200" /> <img src="./Udemy-Logo.png" width="200"/>
 </div>
 
