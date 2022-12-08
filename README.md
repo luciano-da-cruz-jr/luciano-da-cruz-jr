@@ -8,7 +8,7 @@
 * [Node.js from Zero to Mastery with Various Projects](https://github.com/luciano-da-cruz-jr/luciano-da-cruz-jr/blob/main/Node-Zero-to-Maestria-With-Many-Projects.md)
 * Projects With ReactJS
   * [Body Mass Index Calculator](https://github.com/luciano-da-cruz-jr/Body-Mass-Index-Calculator) / [Online](https://soft-daifuku-205bdd.netlify.app/) / Video Presentation Coming Soon
-  * [To Do List](https://github.com/luciano-da-cruz-jr/To-Do-List) / Online Coming Soon / Video Presentation Coming Soon
+  * [To Do List](https://github.com/luciano-da-cruz-jr/To-Do-List) / [Online](https://radiant-pothos-f0e8c9.netlify.app/) / Video Presentation Coming Soon
   * [Control Of Expenses or Expenses Tracker](https://github.com/luciano-da-cruz-jr/Expensive-Tracker) / [Online](https://dapper-dango-f09288.netlify.app/) / Video Presentation Coming Soon
   * [Photo Gallery With Firebase](https://github.com/luciano-da-cruz-jr/gallery-photos) / Online Coming Soon / Video Presentation Coming Soon
   * [RPG Game](https://github.com/luciano-da-cruz-jr/RPG-Game) / [Online](https://iridescent-kitten-2d249a.netlify.app/) / Video Presentation Coming Soon
